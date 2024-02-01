@@ -775,6 +775,7 @@ textarea{
         height: 89vh;
         transition: all 0.6s;
         background-color:white;
+        gap: 58px;
         
         
     }
